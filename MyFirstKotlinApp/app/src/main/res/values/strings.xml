@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstKotlinApp</string>
+    <string name="welcomeText">0</string>
+    <string name="random_heading">Here is a random number between 0 and %1d</string>
+    <string name="toastBtnText">Toast</string>
+    <string name="countBtnText">Count</string>
+    <string name="randomBtnText">Random</string>
+    <string name="defaultCountValue">0</string>
+    <string name="defaultRandomValue">R</string>
+</resources>
